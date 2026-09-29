@@ -1,0 +1,28 @@
+introduction to natural language processing natural language processing nlp is a field of artificial intelligence that focuses on the interaction between computers and human language
+it is used in search engines chatbots and translation systems
+the field began in the s and has grown rapidly since
+today nlp powers applications that millions of people use every day
+language models learn patterns from large text corpora
+text preprocessing text preprocessing is the first step in any nlp pipeline
+common steps include tokenization lowercasing stopword removal and stemming
+clean data leads to better models
+tokenization splits text into words or sentences
+stopwords such as the is and of are frequent but carry little meaning
+feature extraction machine learning models cannot read raw text so text must be converted into numbers
+bag of words and tf idf are classic feature extraction methods
+word embeddings capture semantic meaning in dense vectors
+modern language models use contextual embeddings
+these representations change depending on the surrounding words which helps with ambiguity in language
+machine learning for text classification clustering and sequence labelling are common tasks
+sentiment analysis predicts whether a review is positive or negative
+named entity recognition finds people places and organizations in text
+neural networks especially transformers have achieved state of the art results
+training these models requires large datasets and powerful hardware
+evaluation of nlp systems evaluation metrics include accuracy precision recall and the f score
+human evaluation is still important for tasks like summarization and dialogue
+a good evaluation uses a held out test set
+cross validation can give a more reliable estimate of performance on small datasets
+applications and future directions nlp applications include virtual assistants spam filters machine translation and document summarization
+language technology is improving access to information for people worldwide
+future directions include multilingual models low resource languages and more efficient training
+ethical issues such as bias and fairness must also be addressed in language technology

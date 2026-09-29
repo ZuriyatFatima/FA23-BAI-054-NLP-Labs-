@@ -1,0 +1,17 @@
+--- PRE-TABLE PARAGRAPHS ---
+NLP Overview
+This document introduces the core ideas of natural language processing and its applications in industry.
+Introduction
+Natural language processing enables computers to understand human language. It combines linguistics, computer science and machine learning.
+Language data is messy, so careful preprocessing is required before any model is trained.
+Tokenization
+Tokenization splits text into smaller units called tokens. Tokens can be words, subwords or characters depending on the model.
+Short note.
+Results
+The table below summarises the accuracy of three models on the test set.
+
+--- TABLE DATA ---
+Model | Accuracy | F1 Score
+Naive Bayes | 0.82 | 0.80
+SVM | 0.88 | 0.87
+Transformer | 0.94 | 
