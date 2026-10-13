@@ -1,4 +1,4 @@
-# NLP Labs (Lab 01 – Lab 03)
+# NLP Labs (Lab 01 – Lab 05)
 
 Solutions for the "Python Essentials for NLP" lab series. Every task is a separate, runnable script
 with the sub-parts (a), (b), (c), (d) labelled in the output.
@@ -17,6 +17,8 @@ python -c "import nltk; [nltk.download(p) for p in ('punkt','punkt_tab','stopwor
 | `lab_01/` | Python essentials: strings, lists, dicts, sets, tuples, string methods, functions/lambda, map/filter/Counter (9 tasks) |
 | `lab_02/` | PDF & DOCX extraction, preprocessing, REST API joins and analysis (9 tasks) |
 | `lab_03/` | Regex, NLTK vs spaCy tokenization, token attributes, sentence segmentation (5 tasks) |
+| `lab_04/` | Text preprocessing: lowercasing, noise removal, stop-words, stemming, lemmatization, pipeline, edit distance, spelling correction (9 tasks, notebook) |
+| `lab_05/` | N-gram language models: unigram/bigram/trigram, MLE, smoothing, perplexity (9 tasks, notebook, standard library only) |
 
 ## Running
 ```bash
